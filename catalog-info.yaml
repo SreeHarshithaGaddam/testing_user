@@ -4,5 +4,5 @@ metadata:
   name: "testing_user"
 spec:
   type: service
-  owner: user:randomuser
+  owner: user:notdefined
   lifecycle: experimental
